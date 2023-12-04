@@ -1,4 +1,4 @@
-# Manual load library codeigniter phpseclib
+# Manually load library codeigniter phpseclib
 
 # PHPseclib Integration for CodeIgniter (Manual Way, Without Using Composer)
 
